@@ -3,6 +3,8 @@
  non collection - 1 ... 1 & * ...1
  collection     - 1 ... * & *... *
 
+ Ref : https://www.youtube.com/watch?v=LOaaOSJL3s8&t=361s
+
 Tables are connected using PK and FK
 
 one table PL with other table FK
