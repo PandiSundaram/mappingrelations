@@ -141,6 +141,8 @@ https://medium.com/learning-sql/12-tips-for-optimizing-sql-queries-for-faster-pe
 
 
 
+https://www.youtube.com/watch?v=zGYLUogRe-M&list=PLqM7alHXFySGweLxxAdBDK1CcDEgF-Kwx&index=9
 
+https://www.youtube.com/watch?v=W2Mq5JER2sM&list=PLGRIaa4wmIrDsmKV5pmPxxBPbF5yig-bQ&index=30
 
 
